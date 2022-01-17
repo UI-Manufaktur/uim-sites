@@ -1,0 +1,31 @@
+{
+	"name": "uim-sites",
+	"authors": [ "UI Manufaktur Team" ],
+	"description": "D Library for Bootstrap",
+	"copyright": "Copyright © 2017 - 2021, UI Manufaktur UG",
+	"license": "MIT",
+	"targetType": "library",
+	"dependencies": {
+		"vibe-d": "==0.9.3"
+	},
+	"sourcePaths": [
+		"../uim-core",
+		"../uim-oop",
+		"../uim-css",
+		"../uim-html",
+		"../uim-javascript",
+		"../uim-json",
+		
+		"./"
+	],
+	"importPaths": [
+		"../uim-core",
+		"../uim-oop",
+		"../uim-css",
+		"../uim-html",
+		"../uim-javascript",
+		"../uim-json",
+		
+		"./"	
+	]
+}

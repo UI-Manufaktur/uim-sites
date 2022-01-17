@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/uim-sites
+uim-sites.so
+uim-sites.dylib
+uim-sites.dll
+uim-sites.a
+uim-sites.lib
+uim-sites-test-*
+*.exe
+*.o
+*.obj
+*.lst
